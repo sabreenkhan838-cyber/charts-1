@@ -119,17 +119,3 @@ A Streamlit dashboard for analyzing Sensex sector indices with:
 
 ## How to Run (Locally)
 
-
-## How to Deploy to Streamlit Cloud
-
-1. Upload all files to a GitHub repository.
-2. Go to https://streamlit.io/cloud
-3. Click **New app** → Select your GitHub repo.
-4. Choose file: `sensex_dashboard.py`
-5. Deploy.
-
-Make sure `requirements.txt` is included!
-
-## Notes
-- Data comes from Yahoo Finance via yfinance.
-- Predictions are for educational purposes only.
